@@ -1,5 +1,5 @@
-# conference-diversity
-Ideas, techniques, and tools for conference speakers and organisers
+# Conference diversity
+Ideas, techniques, and tools for conference speakers and organisers to create diverse, inclusive events
 
 ## Purpose
 
@@ -9,6 +9,10 @@ To give tech conference organisers and speakers small, actionable steps they can
 
 Feel free to make a pull request or open an issue to suggest additional material or adjustment to what's already here. This is a work-in-progress for our community, by our community.
 
+[Tips for organisers](#organisers)  
+[Tips for speakers](#speakers)
+
+<a name ="organisers"/>
 ## Tips for conference organisers
 
 ### Create a code of conduct
@@ -55,6 +59,7 @@ Use tools created to help conference organisers find diverse speakers such as:
 - [Speakerinnen](https://speakerinnen.org/en#categories_anker)
 - [@CallbackWomen](http://www.callbackwomen.com/)
 
+<a name ="speakers"/>
 ## Tips for conference speakers
 
 ### Avoid language that excludes others
@@ -63,7 +68,7 @@ Gendered language, for instance, such as calling a group of gender-diverse peopl
 
 ### Avoid examples that exclude others
 
-Say you have some hypothetical programmers in your talk. Making them all cisgender, white men perpetuates this stereotype of programmers and excludes programmers who don't fit that description. Try to make your examples diverse or neutral.
+Say you have some hypothetical programmers in your talk. Making them all cisgender, white men perpetuates this stereotype of programmers and excludes programmers who don't fit that description. Try to make your examples diverse, or make them neutral by using generic figures, non-gendered language such as "they/them", and avoiding gendered names.
 
 ### Ask diverse people to watch you practise
 
